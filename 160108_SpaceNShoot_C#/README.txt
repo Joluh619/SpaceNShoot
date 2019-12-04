@@ -8,6 +8,7 @@ At the beginning and every time you respawn there will be a moment when you're p
 The game ends when the player´s life counter reaches Zero.
 
 Programming Language: C#
+Developed in MonoGame
 December 3, 2019
 
 San Luis Potosi Polytechnic University 
